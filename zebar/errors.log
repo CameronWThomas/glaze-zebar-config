@@ -1,0 +1,17 @@
+[2m2025-10-14T13:51:10.736419Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'neobrutal'.
+[2m2025-10-14T13:56:02.505737Z[0m [31mERROR[0m [2mzebar[0m[2m:[0m Failed to parse JSON from file: C:\Users\cthomas\.glzr/zebar\settings.json
+
+Caused by:
+    missing field `pack` at line 8 column 5
+[2m2025-10-14T14:43:07.414885Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'custom'.
+[2m2025-10-14T14:43:56.078286Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'neobrutal'.
+[2m2025-10-14T14:44:18.119716Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'neobrutal-zebar-1.2.1'.
+[2m2025-10-14T14:47:32.346666Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'neobrutal-zebar-1.2.1'.
+[2m2025-10-14T14:52:19.265077Z[0m [31mERROR[0m [2mzebar[0m[2m:[0m Failed to parse JSON from file: C:\Users\cthomas\.glzr/zebar\settings.json
+
+Caused by:
+    expected value at line 4 column 5
+[2m2025-10-14T14:52:53.804127Z[0m [31mERROR[0m [2mzebar[0m[2m:[0m Failed to parse JSON from file: C:\Users\cthomas\.glzr/zebar\settings.json
+
+Caused by:
+    expected value at line 9 column 5
